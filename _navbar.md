@@ -6,6 +6,6 @@
   * [薩爾達傳說 眾神的三角神力 大師劍, NMG, NSQ](gdq/zelda-alttp-ms-nmg-nsq/)
   * [薩爾達傳說 眾神的三角神力 Low%](gdq/zelda-alttp-low/)
 * 寶可夢 Pokemon
-  * [寶可夢 藍版 Any% NSC](other/pokemon-blue-any-nsc)
+  * [寶可夢 藍版 Any% NSC](other/pokemon-blue-any-nsc.md)
 * Other
   * [寶可夢 藍版 Any% NSC](other/pokemon-blue-any-nsc)
