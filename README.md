@@ -1,4 +1,4 @@
-# 波紋的 Speedrun 流程筆記
+# 波紋與 Speedrun 流程筆記
 
 使用 GitHub Pages 和 Docsify 編修 & 呈現 Speedrun 流程筆記，筆記格式為 Markdown。
 
