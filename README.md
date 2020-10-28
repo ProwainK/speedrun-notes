@@ -13,8 +13,8 @@
 
 ### 寶可夢 Pokemon
 
-[寶可夢 藍版 Any% NSC](https://prowaink.github.io/speedrun-notes/#/other/pokemon-blue-any-nsc)
-* [寶可夢 藍版 Any% NSC](other/pokemon-blue-any-nsc.md)
+* [寶可夢 TCG Any% ACE](pokemon/pokemon-tcg1-any-ace.md)
+* [寶可夢 藍版 Any% NSC](pokemon/pokemon-blue-any-nsc.md)
 
 
 ## 推薦字型
