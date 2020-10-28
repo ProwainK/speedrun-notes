@@ -9,15 +9,16 @@
 [Docsify 官網 (ゝ∀･)](https://docsify.js.org/#/)
 
 
-## 推薦字型
-
-[源泉圓體](https://github.com/ButTaiwan/gensen-font)
-
-[Inconsolata](https://fonts.google.com/specimen/Inconsolata)
-
-
 ## 目錄
 
 ### 寶可夢 Pokemon
 
 [寶可夢 藍版 Any% NSC](https://prowaink.github.io/speedrun-notes/#/other/pokemon-blue-any-nsc)
+* [寶可夢 藍版 Any% NSC](other/pokemon-blue-any-nsc.md)
+
+
+## 推薦字型
+
+[源泉圓體](https://github.com/ButTaiwan/gensen-font)
+
+[Inconsolata](https://fonts.google.com/specimen/Inconsolata)
