@@ -13,8 +13,10 @@
 
 ### 寶可夢 Pokemon
 
-* [寶可夢 TCG Any% ACE](pokemon/pokemon-tcg1-any-ace.md)
+* [寶可夢卡片 GB Any% ACE](pokemon/pokemon-tcg1-any-ace.md)
+* [寶可夢卡片 GB2 Any% ACE](pokemon/pokemon-tcg2-any-ace.md)
 * [寶可夢 藍版 Any% NSC](pokemon/pokemon-blue-any-nsc.md)
+
 
 
 ## 推薦字型
